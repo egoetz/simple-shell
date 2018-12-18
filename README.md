@@ -1,6 +1,8 @@
 # simple-shell
 Basic shell that will process up to 64 arguments
 
+Please note that this program uses a Unix system call and thus it will not compile in a Windows environment.
+
 # Running simple-shell
 After compiling simple-shell, one can simply call the executible. This program's main takes no arguments.
 ```
